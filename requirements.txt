@@ -161,7 +161,7 @@ protobuf==3.12.2
 psutil==5.7.2
 psycopg2==2.7.5
 ptyprocess==0.6.0
-py==1.9.0
+py==1.10.0
 py4j==0.10.9
 pyasn1==0.4.8
 pycodestyle==2.6.0
