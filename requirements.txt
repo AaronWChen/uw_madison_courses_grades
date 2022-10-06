@@ -107,7 +107,7 @@ kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 lesscpy==0.14.0
 libarchive-c==2.9
-lief==0.10.1
+lief==0.12.2
 llvmlite==0.31.0
 locket==0.2.0
 lxml==4.9.1
